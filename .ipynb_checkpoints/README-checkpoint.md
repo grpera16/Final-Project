@@ -1,5 +1,7 @@
 # Final-Project
 Final Project for Big Ideas
+<<<<<<< HEAD
+=======
 Team Safety
 <<<<<<< HEAD
 Julius Clyburn jxc9@pitt.edu
